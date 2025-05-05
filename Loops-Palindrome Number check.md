@@ -1,6 +1,6 @@
 ## Loops in Python: Palindrome Number Checker
 
-## NAME : SHAGILAN U
+## NAME : SHAGILAN u
 ## REG NO:212224040303
 ## 🎯 Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
